@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+* { 
+font-family: 'Patrick Hand', cursive;
+}
+
+.pic {
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+#nav * {
+background-color: #409098;
+width:auto;
+height: auto;
+
+}
+
+#nav li {
+  display: inline;
+  
+}
+
+#nav li a {
+  display: inline;
+  color:black;
+}
