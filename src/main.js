@@ -1,3 +1,4 @@
+
 import {films} from './data.js';
  import data from './data/ghibli/ghibli.js';
  //import studio from './data/ghibli/ghibli.js';
@@ -15,3 +16,6 @@ console.log(data,films,filmsScreen);
 - cascaron
 - resultados esperados: poder mostrar la información de las películas en la interfaz con el título, poster y año */
  
+
+
+
